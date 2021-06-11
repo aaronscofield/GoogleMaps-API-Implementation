@@ -1,0 +1,19 @@
+#map{
+    height: 500px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid darkslategray;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 50;
+    padding: 0;
+}
+
+#infobox{
+    margin: auto;
+    text-align: center;
+}
